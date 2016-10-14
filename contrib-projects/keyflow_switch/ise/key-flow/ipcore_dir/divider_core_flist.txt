@@ -1,0 +1,13 @@
+# Output products list for <divider_core>
+_xmsgs/pn_parser.xmsgs
+divider_core.asy
+divider_core.gise
+divider_core.ngc
+divider_core.sym
+divider_core.v
+divider_core.veo
+divider_core.xco
+divider_core.xise
+divider_core_flist.txt
+divider_core_readme.txt
+divider_core_xmdf.tcl
