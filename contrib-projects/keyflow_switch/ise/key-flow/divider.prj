@@ -1,2 +1,0 @@
-verilog work "ipcore_dir/divider_core.v"
-verilog work "../../hw/pcores/openflow_datapath_v1_00_a/hdl/verilog/divider.v"

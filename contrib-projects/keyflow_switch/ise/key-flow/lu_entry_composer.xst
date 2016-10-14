@@ -1,5 +1,0 @@
-set -tmpdir "/home/matheus/Documents/SDN-KEYFLOW/git-matheus/NetFPGA-10G-live/contrib-projects/keyflow_switch/ise/key-flow/xst/projnav.tmp"
-set -xsthdpdir "/home/matheus/Documents/SDN-KEYFLOW/git-matheus/NetFPGA-10G-live/contrib-projects/keyflow_switch/ise/key-flow/xst"
-elaborate
--ifn lu_entry_composer.prj
--ifmt mixed
